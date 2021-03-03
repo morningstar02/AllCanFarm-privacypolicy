@@ -9,7 +9,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at AllCanFarm unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
-Information Collected while Using the Application
+
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
 Certain personally identifiable information i.e. First Name & Last Name
