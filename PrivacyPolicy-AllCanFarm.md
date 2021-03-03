@@ -9,8 +9,16 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at AllCanFarm unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+Information Collected while Using the Application
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Non-continuous location, location. The information that we request will be retained by us and used as described in this privacy policy.
+Certain personally identifiable information i.e. First Name & Last Name
+
+Information regarding your location
+
+Pictures and other information from your photo library
+
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
 The app does use third party services that may collect information used to identify you.
 
